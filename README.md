@@ -1,5 +1,7 @@
-## Foundry
+## about
+This is a web3 crowdfunding project written in solidity.
 
+## Foundry
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
 Foundry consists of:
